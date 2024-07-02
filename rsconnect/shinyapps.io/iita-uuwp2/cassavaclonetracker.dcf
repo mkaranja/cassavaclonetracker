@@ -1,12 +1,12 @@
 name: cassavaclonetracker
 title: cassavaclonetracker
-username: iita-uuwp2
-account: iita-uuwp2
+username: ****
+account: ****
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 12203986
 bundleId: 8816031
-url: https://iita-uuwp2.shinyapps.io/cassavaclonetracker/
+url: *****
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
