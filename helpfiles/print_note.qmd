@@ -1,0 +1,11 @@
+---
+title: ""
+format: html
+editor: visual
+---
+
+::: {.callout-tip}
+## Printing note
+
+When printing, set paper size to A4.
+:::

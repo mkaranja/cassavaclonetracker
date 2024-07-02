@@ -1,0 +1,9 @@
+default:
+  golem_name: cassavaclonetracker
+  golem_version: 0.0.1
+  app_prod: no
+production:
+  app_prod: yes
+dev:
+  golem_wd: !expr golem::pkg_path()
+
